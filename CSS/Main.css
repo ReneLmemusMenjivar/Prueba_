@@ -1,0 +1,15 @@
+@media screen and (max-width: 1920px) {
+p{
+    background-color: brown;
+}
+
+}
+
+@media screen and(max-width: 720px){
+
+    body{
+        background-color: aquamarine;
+
+    }
+
+}
